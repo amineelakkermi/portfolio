@@ -46,7 +46,7 @@ Error generating stack: `+o.message+`
   mt-5 text-center`,children:"A Frontend focused Web Developer building the Frontend of Websites  that leads to the success of the overall product"})]}),w.jsx("div",{children:w.jsx("button",{className:"p-4 mt-12 bg-[#2F2B3A]",children:w.jsx("a",{href:"#about",className:"font-poppins text-white font-medium text-[16px]  tracking-[1px]",children:"Read more for me"})})})]});const Fw=()=>w.jsxs(bt.section,{initial:{opacity:0,translateY:-100},whileInView:{opacity:1,translateY:0},transition:{duration:.3,delay:.3,type:"spring",stiffness:80},viewport:{once:!0},id:"about",className:`
     
     relative
-  
+    md:mt-0 mt-16
    
      flex md:flex-row flex-col   ${_.paddingY}`,children:[w.jsxs("div",{className:`${$t.sectionInfo}`,children:[w.jsx("h1",{className:`
       font-poppins font-semibold xs:text-[55px] text-[50px]
